@@ -10,7 +10,7 @@ export const Intro: FC = () => (
 
     <TextBox>
       <p>
-        Nous sommes un groupement de développeuses et développeurs passionnés
+        Nous sommes un groupe de développeuses et développeurs passionnés
         sur Angoulême.
       </p>
 

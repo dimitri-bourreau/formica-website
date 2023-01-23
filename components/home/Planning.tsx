@@ -4,7 +4,7 @@ import { MeetingDate } from "@/components/common/MeetingDate";
 
 export const Planning: FC = () => (
   <>
-    <h2 className="text-2xl">⬇️ Nos prochaines rencontres ⬇️</h2>
+    <h2 className="text-2xl">Nos prochaines rencontres ⬇️</h2>
 
     <TextBox background="bg-cyan-100">
       <h3 className="text-lg">Rencontre amicale hebdomadaire</h3>

@@ -4,7 +4,7 @@ import { FC } from "react";
 const Document: FC = () => (
   <Html lang="fr">
     <Head />
-    <body className="font-sans flex justify-center items-center h-screen px-20">
+    <body className="font-sans flex justify-center items-center min-h-screen px-20 py-10">
       <Main />
       <NextScript />
     </body>
